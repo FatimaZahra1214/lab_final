@@ -1,0 +1,89 @@
+{
+	"info": {
+		"_postman_id": "02578647-3f67-4edf-bbd1-b56eace847e9",
+		"name": "Tourism",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "39594928"
+	},
+	"item": [
+		{
+			"name": "post",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get request",
+			"request": {
+				"method": "post",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "post",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
+
+"item": [
+	{
+		"name": "post",
+		"request": {
+			"method": "GET",
+			"header": []
+		},
+		"response": []
+	},
+	{
+		"name": "Get request",
+		"request": {
+			"method": "post",
+			"header": []
+		},
+		"response": []
+	},
+	{
+		"name": "New Request",
+		"request": {
+			"method": "delete",
+			"header": []
+		},
+		"response": []
+	}
+]
+
+"item": [
+	{
+		"name": "post",
+		"request": {
+			"method": "GET",
+			"header": []
+		},
+		"response": []
+	},
+	{
+		"name": "Get request",
+		"request": {
+			"method": "delete",
+			"header": []
+		},
+		"response": []
+	},
+	{
+		"name": "New Request",
+		"request": {
+			"method": "post",
+			"header": []
+		},
+		"response": []
+	}
+]
+
